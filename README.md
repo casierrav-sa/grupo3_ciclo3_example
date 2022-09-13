@@ -1,2 +1,2 @@
-# grupo3_ciclo3_example
-This is a prove-of-concept about how to use GitHub
+# Grupo 3 Ciclo3 Example
+En este ejercicio estamos aprendiendo a usar Git
